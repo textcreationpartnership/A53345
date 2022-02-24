@@ -1,0 +1,631 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On St. Paul's Cathedrall represented by Mr. Dan. King</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53345</idno>
+            <idno type="STC">Wing O297C</idno>
+            <idno type="STC">ESTC R218587</idno>
+            <idno type="EEBO-CITATION">99830165</idno>
+            <idno type="PROQUEST">99830165</idno>
+            <idno type="VID">34615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34615)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1873:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On St. Paul's Cathedrall represented by Mr. Dan. King</title>
+                  <author>King, Daniel, d. 1664?, engr.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : 1/2#20.  </extent>
+               <publicationStmt>
+                  <publisher>Sould by Iohn Ouerton at the White Horse without Newgate at the corner of the little old Baly neere the Fountaine Tauern,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated in text, 1658.</note>
+                  <note>Fully engraved.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>In verse, with Latin and English texts.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Paul's Cathedral (London, England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <head>Antitrisulca meam quam flamma cremarerat Arcem, Anteferenda Mihi Fabrica nulla fuit.</head>
+         <div type="poem">
+            <pb facs="tcp:34615:1" rendition="simple:additions"/>
+            <head>On S.<hi rend="sup">t</hi> PAVL's Cathedrall repreſented by M<hi rend="sup">r</hi> DAN. KING.</head>
+            <lg>
+               <l>Illuſtrious. Pile, ô that my Muſe,</l>
+               <l>Amphien-like, could Life infuſe</l>
+               <l>Into Thy Stones &amp; make them dance</l>
+               <l>In Order, till They might advance</l>
+               <l>Into their ancient Seats, and riſe</l>
+               <l>In Spires to re-ſalute the Skies.</l>
+            </lg>
+            <lg>
+               <l>What though <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 7 Wonders have</l>
+               <l>In their own Rubbiſh found a grave:</l>
+               <l>Conſuming Time did ſcarce amiſs</l>
+               <l>So long as He diſpenſ'd with This:</l>
+               <l>For whilſt He PAULS upheld alone,</l>
+               <l>The Sc<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> re-flouriſht in This One.</l>
+            </lg>
+            <lg>
+               <l>Haile, Sacred Ruines, which remaine,</l>
+               <l>And ſtill a Majeſtie retaine</l>
+               <l>You in your mouldring Relicks ſhow</l>
+               <l>GOD's ſpeciall preſence once below:</l>
+               <l>So as bleſt Angels might admire</l>
+               <l>The Model of Their own Great Quire.</l>
+            </lg>
+            <lg>
+               <l>Nor were it an Offence to call</l>
+               <l>Thoſe Angels to thy haſtning Fall,</l>
+               <l>Wee only can fit Poets be</l>
+               <l>To grace Thee with an Elegie</l>
+               <l>And to bewaile a Silence there</l>
+               <l>Where Neices turn'd each Senſe to Eare.</l>
+            </lg>
+            <lg>
+               <l>Religions Ark, a Trophy raiſ'd</l>
+               <l>By Zeale where God was rightly praiſ'd</l>
+               <l>Cheer'd by Thy former Splendor muſt</l>
+               <l>We now be blinded with Thy Duſt?</l>
+               <l>Ah that Thy Lead ſhould fall to be</l>
+               <l>AWinding sheet to Faith and Thee!</l>
+            </lg>
+            <lg>
+               <l>To view Thee once more in Repaire,</l>
+               <l>O Theater of ROYALL Care!</l>
+               <l>To re-exalt Thy glorious Name.</l>
+               <l>And waſh out our Augaan Shame.</l>
+               <l>A Floud ſhould iſsue from our Eyes</l>
+               <l>Which might Alpheus equalize</l>
+            </lg>
+            <lg>
+               <l>Time that devours the World &amp; brings</l>
+               <l>A Change on all inferiour Things,</l>
+               <l>May ſee an Age in greater Haſt</l>
+               <l>Re-build Thee then this lay'd Thee waſt,</l>
+               <l>And finde a Holy Pleaſure in</l>
+               <l>Such an Attonement for This Sin.</l>
+            </lg>
+            <lg>
+               <l>However let Us duely mourn</l>
+               <l>To view Thee waſting to Thy Urn.</l>
+               <l>And if Time ſhould not Thee reſtore.</l>
+               <l>Thou liv'ſt in Figure as before.</l>
+               <l>By ONE Who joyning Names thru Things.</l>
+               <l>Shares in Renown with other KINGS.</l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="poem">
+            <head>Threnodia Adis PAVLINA De Seipſâ.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg> SPICE Qualis eram primo perfecta Decore,</l>
+               <l>Vertice ſublimi viſa ferire Polum,</l>
+               <l>Culinine nec tantùm Coelo, ſed proxima Cultu,</l>
+               <l>Coelicolae noſtros dum ſtupûere Choros:</l>
+               <l>Dives Opum, ſancta Ara Precum, Pietatis Aſylum,</l>
+               <l>Florida Pace, Fide pura, dicata DEO.</l>
+            </lg>
+            <lg>
+               <l>Concipe Mente meum Decus eſſet quale ſecundum</l>
+               <l>Contractum Senio cùm poſitura Situm;</l>
+               <l>Pyramis à Flammis cùm ſurgeret icta Triſulcis,</l>
+               <l>Auxiliatrices REGE ferente Manus:</l>
+               <l>Propitio Sumptu renovatâ ut Matre, minorum</l>
+               <l>Natarum Series tota. Venuſta foret.</l>
+            </lg>
+            <lg>
+               <l>Illa Ego Quae quondain ſublimbus alta Columnis,</l>
+               <l>Arcnum adornatis concamerata Tholis,</l>
+               <l>In Coelum. Spirâ coepi tendiſſe ſtupendâ,</l>
+               <l>At<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Minuſterijs aptior eſſe ſacris;</l>
+               <l>Indè, Vetuſtatis devitatura Ruinas,</l>
+               <l>Cum Mundo poteram continuâſſe Dies.</l>
+            </lg>
+            <lg>
+               <l>Maxima Chriſticolae manſiſſem Gloria Mundi,</l>
+               <l>Invida &amp; in noſtras Roma fuiſſer Opes;</l>
+               <l>Ipſa Cathedrali ſupefaſſem ſplendida Formâ,</l>
+               <l>PETRE, tuám<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Solo, MARCE, tuám<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Salo;</l>
+               <l>At<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Reformatum tune Relligione Nitorem</l>
+               <l>Nactâ, Me ſummus conclecorâſſet Honos.</l>
+            </lg>
+            <lg>
+               <l>Sed mihi Seditio nocuit, quae Prodroma Lapſûs,</l>
+               <l>Saevior ac ipſo Tempore, Livor atrox.</l>
+               <l>Cum ſint Arma. Tibi tantùm Coeleſtia, PAULE,</l>
+               <l>Militis Excubijs non eget Iſta Domus:</l>
+               <l>Antè Decora fui, jam Squallida tota recumbo;</l>
+               <l>Eſt ſacer Hinnitus quô Sacer Hymnus erat!</l>
+            </lg>
+            <lg>
+               <l>Si Fluvio Stabulum Iavit Tyrinthius Heros,</l>
+               <l>Victor Aquis, quandò Dextra negabat Opem;</l>
+               <l>Excordes Nati, cur nunc in Funere Matris</l>
+               <l>Conſpicitis ſiccis Rudera noſtra Genis?</l>
+               <l>O, ſi verſa forent in ſalſum Lumina Rivum,</l>
+               <l>Elueret Sordes Rivus ut Iſte meas!</l>
+            </lg>
+            <lg>
+               <l>Involvo Lodice mei Sacra omnia Plumbi!</l>
+               <l>Urna priús Magnis, jam rudis Urna Mihi!</l>
+               <l>Laetor at aeratis quod ſim victura Figuris,</l>
+               <l>Ceu Volucris Syrijs quae reparata Rogis,</l>
+               <l>lllius Auxilio, Qui non REX Nomine tantum,</l>
+               <l>Sed Qui, par ſummis REGIBUS, edit Opus.</l>
+            </lg>
+            <lg>
+               <l>Quanto Ego Flebilior, tantò Praeſentior audi,</l>
+               <l>Diruit, aedificat nam tua Dextra, DEUS!</l>
+               <l>TU miſerere Mei, mea TU demortua Saxa,</l>
+               <l>Verus ut Amphion, mox animare potes:</l>
+               <l>Dicta Dies, Scriptis promiſſa ſidelibus, adſit,</l>
+               <l>Cùm Favor in charae Saxa SIONIS erit!</l>
+            </lg>
+            <closer>
+               <signed>B<hi rend="sub">1</hi>E<hi rend="sub">2</hi>N<hi rend="sub">3</hi>E<hi rend="sub">8</hi>
+                  <g ref="char:V">Ʋ</g>
+                  <hi rend="sub">6</hi>O<hi rend="sub">5</hi>L<hi rend="sub">4</hi>
+                  <g ref="char:V">Ʋ</g>
+                  <hi rend="sub">7</hi>S<hi rend="sub">9</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="chronology">
+            <list>
+               <item>A<hi rend="sup">o</hi> Dn<g ref="char:cmbAbbrStroke">̄</g>i 610 Ethelbert K. of Kent built this Church &amp; de<g ref="char:EOLhyphen"/>dicated it to S<hi rend="sup">t</hi> Paule.</item>
+               <item>A<hi rend="sup">o</hi> 670 Erkinwald the 4 Bishop encreaſed it Afterward K. Ethelſta<g ref="char:cmbAbbrStroke">̄</g> &amp; others enlarged its Revenues.</item>
+               <item>In the time of W. y<hi rend="sup">e</hi> Con the old Fabrick roofed with wood was burnt.</item>
+               <item>A<hi rend="sup">o</hi> 1094 Mauritius B<hi rend="sup">P</hi> of London began to build it as it now is viz. the Body of the Church &amp; North &amp; South Croſſe Iſles</item>
+               <item>After Maur: the Building was continued &amp; y<hi rend="sup">e</hi> Steeple finiſhed A<hi rend="sup">o</hi> 1225. The Quire finiſed A<hi rend="sup">o</hi> 1240</item>
+               <item>A<hi rend="sup">o</hi> 1237 S<hi rend="sup">t</hi>. Faiths begun to be builded</item>
+               <item>A<hi rend="sup">o</hi> 1315 The Spire was taken downe and made new.</item>
+               <item>A<hi rend="sup">o</hi> 1444 the Steeple burnt with Lightning. A<hi rend="sup">o</hi> 1462 it was repaired againe.</item>
+               <item>A<hi rend="sup">o</hi> 1501 the Steeple burnt down to y<hi rend="sup">e</hi> vpper Roofe by Lightning A<hi rend="sup">o</hi> 1566 the Roofe repaired againe.</item>
+               <item>A futher Repaire intended by K. James A<hi rend="sup">o</hi> 1633 begun to be repaired within and without as now it is by King <hi>Charles.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="illustrations">
+            <div type="author_to_illustrator">
+               <opener>
+                  <salute>SIR</salute>
+               </opener>
+               <p>Your Merit in theſe Verſes &amp; my Gratitude for your Civilities mov'd me to joyne your Pictures to this Peece.
+<figure>
+                     <figDesc>portrait</figDesc>
+                  </figure>
+Who would alſo preſent all our other Cathedralls in this Forme, if encouraged by Such as your honoured SELFE.</p>
+               <closer>
+                  <signed>DAN: KING</signed>
+               </closer>
+            </div>
+            <div type="views_of_St._Pauls_Cathedral_exterior">
+               <p>
+                  <figure>
+                     <head>The West end of S<hi rend="sup">t</hi> Paules</head>
+                     <figDesc>view of the west end of St. Paul's Cathedral</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>The North View of S<hi rend="sup">t</hi> Paules Church.</head>
+                     <figDesc>view of the north aspect of St. Paul's Cathedral</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>The South View of S<hi rend="sup">t</hi> Paules Church as it was when y<hi rend="sup">e</hi> Spire was ſtanding.</head>
+                     <figDesc>view of the south aspect of St. Paul's Cathedral</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>The South View of S<hi rend="sup">t</hi> Paules Church.</head>
+                     <figDesc>view of the south aspect of St. Paul's Cathedral</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>The East end of S<hi rend="sup">t</hi> Paules</head>
+                     <figDesc>view of the east end of St. Paul's Cathedral</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="views_of_St._Pauls_Cathedral_interior">
+               <p>
+                  <figure>
+                     <head>The prospect of the Parochial church of S<hi rend="sup">t</hi> Faith from Weſt to Eaſt under S<hi rend="sup">t</hi> Paules</head>
+                     <figDesc>view of the interior of the Parish Church of St. Faith under St. Paul's Cathedral</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>The proſpect of the Orientall part of the Church</head>
+                     <figDesc>view of the interior of  St. Paul's Cathedral, eastern part</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>The prospect of the Quire of S<hi rend="sup">t</hi> Paules Cathedrall.</head>
+                     <figDesc>view of the interior of  St. Paul's Cathedral, choir</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>The interior proſpect of the Body of the Cathedrall Church of S<hi rend="sup">t</hi> Paules from Weſt to the quire.</head>
+                     <figDesc>view of the interior of  St. Paul's Cathedral, western part</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="plans_of_St._Pauls_Cathedral">
+               <div n="Parish Church of St. Faith" type="plan">
+                  <p>
+                     <figure>
+                        <figDesc>plan of the Parish Church of St. Faith</figDesc>
+                        <head>The <unclear>Planographie</unclear> of the parochiall Church of S<hi rend="sup">t</hi> Faith</head>
+                        <p>
+                           <list>
+                              <item>The BODY of S<hi rend="sup">t</hi> FAITHS CHVRCH</item>
+                              <item>Part of the ſame Church called the Chappell of Ieſus.</item>
+                              <item>The Butreyes belonging to the Vpper and Orientall part of the Cathedrall Church or quire of S<hi rend="sup">t</hi> Paules.</item>
+                              <item>
+                                 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>t Iohn Bap<gap reason="illegible" resp="#UOM" extent="3 letters">
+                                    <desc>•••</desc>
+                                 </gap> Chapp</item>
+                           </list>
+                        </p>
+                     </figure>
+                  </p>
+                  <div type="key">
+                     <p>
+                        <list>
+                           <item>1. Will Lam<gap reason="illegible" resp="#UOM" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>.</item>
+                           <item>2. Hary Kytſon.</item>
+                           <item>3. <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> Abni.</item>
+                           <item>4. Tho: Hind.</item>
+                           <item>5. Tho <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>.</item>
+                           <item>6. Will <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>bam.</item>
+                           <item>7. <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>: Huntte.</item>
+                           <item>8. Alin: Iohnſon.</item>
+                           <item>9. Will: W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>t.</item>
+                           <item>10. Will: Lily.</item>
+                           <item>11. Iohn: Good.</item>
+                           <item>12. Iohn: B<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>.</item>
+                           <item>13. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ry: Robinson.</item>
+                           <item>14. Georg: Whilgiſt.</item>
+                           <item>15. Iohn: and Fran A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ly.</item>
+                           <item>16. Rich: <gap reason="illegible" resp="#UOM" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap> nams of ſeverall Tombs in <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> Faiths under S<hi rend="sup">t</hi> Paules.</item>
+                        </list>
+                     </p>
+                  </div>
+               </div>
+               <div n="Cathedral proper" type="plan">
+                  <p>
+                     <figure>
+                        <figDesc>plan of St. Paul's Cathedral</figDesc>
+                        <head>The Planographie of the Cathedrall Church of S<hi rend="sup">t</hi> Paules</head>
+                        <p>
+                           <list>
+                              <item>South</item>
+                              <item>Weſt</item>
+                              <item>North.</item>
+                              <item>Eaſt</item>
+                           </list>
+                           <list>
+                              <item>The Body of the Church</item>
+                              <item>S<hi rend="sup">t</hi> Gregories C</item>
+                              <item>the quire</item>
+                              <item>St Marys Chapp.</item>
+                           </list>
+                        </p>
+                     </figure>
+                  </p>
+                  <div type="key">
+                     <p>
+                        <list>
+                           <item>1. The porticue.</item>
+                           <item>2. The W. dore.</item>
+                           <item>3. The Turret.</item>
+                           <item>4. The Convocation houſe.</item>
+                           <item>5. The Little North dore.</item>
+                           <item>6. The Little S dore.</item>
+                           <item>7. The great N dore.</item>
+                           <item>8. The great S dore.</item>
+                           <item>9. Tho: Kemps Chapp. By of London A<hi rend="sup">o</hi> 65.</item>
+                           <item>10. The Tombe of Iohn Beauchamp.</item>
+                           <item>11. The Chapter houſe.</item>
+                           <item>12. The Stepes to the quire.</item>
+                           <item>13. The quire dore.</item>
+                           <item>14. The Tombe of Io: Donne Deane of this Church.</item>
+                           <item>15. The Mon: of Io: Calletiy Deane of Paules.</item>
+                           <item>16. The Mon: of Will Hewet A<hi rend="sup">o</hi> 1590.</item>
+                           <item>17. The Mon: of Will Cokayn Eq: aurat.</item>
+                           <item>18. The Mon: of Mic: Baco<gap reason="illegible" resp="#UOM" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>.</item>
+                           <item>19. The Tombe of Iohn Newcourt A<hi rend="sup">o</hi> 1425.</item>
+                           <item>20. The To: of Valentine Carey A<hi rend="sup">o</hi> 
+                              <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>.</item>
+                           <item>21. The Tom: of Brabazon de Od<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> A<hi rend="sup">o</hi> 149<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </item>
+                           <item>22. The To: of W. Rythym.</item>
+                           <item>23. The T: of Sym: Edolph.</item>
+                           <item>24. The T: of Ri: Lichfield.</item>
+                           <item>25. The T: of Io: Acton. The Mo: of Christo:</item>
+                           <item>26. Hatton Kof y<hi rend="sup">e</hi> Garter.</item>
+                           <item>27. The To: of E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſta Fauconbridge L: Ep A<hi rend="sup">o</hi> 1225.</item>
+                           <item>28. The To: of Hen: Wengham B<hi rend="sup">P</hi> LoA 1258.</item>
+                           <item>29. The To: Hen: Lacie E of Lincolne A<hi rend="sup">o</hi> 1406.</item>
+                           <item>30. The T: of Rob: Braybroke B<hi rend="sup">P</hi> of Lon. A<hi rend="sup">o</hi> 1404.</item>
+                           <item>31. The To: of S Erckenwold.</item>
+                           <item>32. The Mo: of Alex: Noell deane of this Ch: A 1621.</item>
+                           <item>33. The Mo: of Tho: Heneage Ep Aur A<hi rend="sup">o</hi> 1494.</item>
+                           <item>34. The To: of Baff Hengham.</item>
+                           <item>35. The To: of Sym: Barley K. of y<hi rend="sup">e</hi> Garter.</item>
+                           <item>36. The Mo: of Io: of Gaunt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>t Duke of Lan: A<hi rend="sup">o</hi> 1399.</item>
+                           <item>37. The Mon: of Will: Herbert E: of Penbro A<hi rend="sup">o</hi> 1569.</item>
+                           <item>38. The To: of Io: Holins.</item>
+                           <item>39. The To: of Io: Chish<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ll.</item>
+                           <item>40. The To: of Roff Niger B<hi rend="sup">P</hi> of Lon: A<hi rend="sup">o</hi> 1542.</item>
+                           <item>41. The Mo: of Io: Maſon Ep aur A<hi rend="sup">o</hi> 1566.</item>
+                           <item>42. The Mo: of Will Aubrey.</item>
+                           <item>43. The To: of Sebbe K: of y<hi rend="sup">e</hi> Sax A<hi rend="sup">o</hi> 
+                              <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>.</item>
+                           <item>44. The T: of Etheldred K: of y<hi rend="sup">e</hi> Sax. A<hi rend="sup">o</hi> 1017.</item>
+                           <item>45. The Tom: of Tho: Erore.</item>
+                           <item>46. The To: of Will Green.</item>
+                           <item>47. The To: of B: ſon of Hugh B of Lon:</item>
+                           <item>48. The High Alter.</item>
+                           <item>49. S<hi rend="sup">t</hi> Gregories Chapp.</item>
+                           <item>50. S<hi rend="sup">t</hi> Dunſtans Chapp.</item>
+                        </list>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div type="view_of_Thames_shoreline">
+               <p>
+                  <figure>
+                     <figDesc>view of London centered on St. Paul's</figDesc>
+                     <head>LONDON.</head>
+                     <p>
+                        <list>
+                           <item>THAMESIS FLVVIVS.</item>
+                           <item>South worke.</item>
+                        </list>
+                     </p>
+                     <signed>D. King delin. et Excudit <date>A<hi rend="sup">o</hi> 1553.</date>
+                     </signed>
+                     <signed>D: Loggan fec:</signed>
+                  </figure>
+               </p>
+               <div type="key">
+                  <p>
+                     <list>
+                        <item>1. S<hi rend="sup">t</hi> Paules.</item>
+                        <item>2. Whitehall.</item>
+                        <item>3. Suffolk house.</item>
+                        <item>4. York houſe.</item>
+                        <item>5. Sauoy.</item>
+                        <item>6. Somerſet houſe.</item>
+                        <item>7. Arundel house.</item>
+                        <item>8. S<hi rend="sup">t</hi>. Clements.</item>
+                        <item>9. S<hi rend="sup">t</hi>. Dunſtans.</item>
+                        <item>10. The Temple.</item>
+                        <item>11. S<hi rend="sup">t</hi> Brides.</item>
+                        <item>12. St. Andrew.</item>
+                        <item>13. Barnards Castle.</item>
+                        <item>14. Queene hith.</item>
+                        <item>15. S<hi rend="sup">t</hi>. Pulchers.</item>
+                        <item>16. Three Cranes.</item>
+                        <item>17. The Waterhouse.</item>
+                        <item>18. The Stillyard.</item>
+                        <item>19. Bowchurch.</item>
+                        <item>20. Guild hall.</item>
+                        <item>21. S<hi rend="sup">t</hi>. Michaels.</item>
+                        <item>22. S<hi rend="sup">t</hi>. Lawrence Poultney.</item>
+                        <item>23. Fishmongers hall.</item>
+                        <item>24. The Old Swan.</item>
+                        <item>25. The Bridge</item>
+                        <item>26. Gray Church.</item>
+                        <item>27. S<hi rend="sup">t</hi>. Dunſtan in y<hi rend="sup">e</hi> East.</item>
+                        <item>28. Billingsgate.</item>
+                        <item>29. Custome house.</item>
+                        <item>30. The Towne.</item>
+                        <item>31. Towne wharfe.</item>
+                        <item>32. S<hi rend="sup">t</hi>. Katherines.</item>
+                        <item>33. S<hi rend="sup">t</hi>. Olaffe.</item>
+                        <item>34. S<hi rend="sup">t</hi>. Mary Overies.</item>
+                        <item>35. Winchester house.</item>
+                        <item>36. The Globe.</item>
+                        <item>37. Beare Garden.</item>
+                        <item>38. The Swan.</item>
+                        <item>39. Harrow on y<hi rend="sup">e</hi> hill.</item>
+                        <item>40. Hamſted.</item>
+                        <item>41. Hygate.</item>
+                        <item>42. Hackney.</item>
+                        <item>43. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>outne<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>.</item>
+                        <item>44. Ell Ships.</item>
+                        <item>45. Gallyfustie.</item>
+                        <item>46. Coale harbour.</item>
+                     </list>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="history">
+            <epigraph>
+               <q>
+                  <p>TEMPLA ſunt DEI Pa<g ref="char:EOLhyphen"/>latia, Bonita<g ref="char:EOLhyphen"/>tis divinae Tribunalia, Miſericordiae AEraria, Miſer<g ref="char:EOLhyphen"/>orum Aſyla; ubi Sacra</p>
+                  <p>NVMINIS Celebratio est Imitatio Angelorum &amp; AEternitatis Praeludium, Haec ergò temerare, temerarium,</p>
+                  <bibl>Mat.21. 13 :</bibl>
+               </q>
+            </epigraph>
+            <p>The Citty of <hi rend="blackletterType">London</hi> (as ſome write) had its firſt Riſe from <hi rend="blackletterType">Brute</hi> the Grand-child ot AEneas, 70 years after y<hi rend="sup">e</hi> Deſtruction of <hi rend="blackletterType">Troy,</hi> whence (ſay they) it was called <hi rend="blackletterType">Troy<g ref="char:EOLhyphen"/>nobant</hi> or <hi rend="blackletterType">New Troy</hi> ſo called when <hi rend="blackletterType">Caeſar</hi> entred into <hi rend="blackletterType">Britaine.</hi> 54 yeares before y<hi rend="sup">e</hi> Birth of <hi rend="blackletterType">Chriſt.</hi> The name <hi rend="blackletterType">London</hi> derived (as ſome ſay) from <hi rend="blackletterType">Lud</hi> a Britiſh King, who enlarged it: Others from <hi rend="blackletterType">Liban-dian.</hi> or <hi rend="blackletterType">Dianas Temple</hi> becauſe y<hi rend="sup">e</hi> chief Temple therein was dedicated to <hi rend="blackletterType">Diana</hi> on whoſe Ruines S<hi rend="sup">t</hi> 
+               <hi rend="blackletterType">Paules</hi> was built by <hi rend="blackletterType">Ethel<g ref="char:EOLhyphen"/>bert</hi> of Kent: It was walled 3 miles in compaſſe A<hi rend="sup">o</hi> Chri. 306 by <hi rend="blackletterType">Helen</hi> the Mother of <hi rend="blackletterType">Conſtantine.</hi>
+            </p>
+            <p>In the time of H. 3<hi rend="sup">d</hi>. it had ſix faire Gates.</p>
+            <p>The <hi rend="blackletterType">Tower</hi> builded by <hi rend="blackletterType">VV.</hi> the <hi rend="blackletterType">Conquerour</hi> An<hi rend="sup">o</hi> 1078</p>
+            <p>At y<hi rend="sup">e</hi> Diſſolution of Monaſteries it had 17. Religious houſes within the Walles, and 12 without.</p>
+            <p>The number of <hi rend="blackletterType">Churches</hi> in y<hi rend="sup">e</hi> Citty of <hi rend="blackletterType">London</hi> w<hi rend="sup">th</hi>in the Walles 99, in the Suburbs 31. Anno 1658.</p>
+            <p>This <hi>Citty</hi> hath Longitude 24° 20′. Lat 51° 32′</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Sould by Iohn Ouerton at the White Horſe without Newgate at the Corner of the little old Baly neere the Fountaine Tauern</p>
+         </div>
+      </back>
+   </text>
+</TEI>
